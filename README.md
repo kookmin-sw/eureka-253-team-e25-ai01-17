@@ -95,12 +95,12 @@
 
 
 <!-- 활동 사진 추가 예시 -->
+<img src="[https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-17/blob/40df4a1a656751025ba29219f8aea3e8cbb197a9/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B31.png)text=활동사진1" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
 
 ***
-
 ## 4️⃣ 인상 깊은 활동
 
 - 활동명 – 활동에 대한 간단한 설명과 배운 점을 작성  
