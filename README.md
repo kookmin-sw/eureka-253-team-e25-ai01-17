@@ -100,6 +100,11 @@
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
 
+
+
+# 13주차 활동: 대학원 선배 만나기
+<img src="https://github.com/kookmin-sw/eureka-253-team-e25-ai01-17/blob/d7bf47ab12c27e8337c6ef774a78d17b72380f8f/13%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.jpeg" />
+
 ***
 ## 4️⃣ 인상 깊은 활동
 
